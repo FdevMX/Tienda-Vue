@@ -1,0 +1,1 @@
+const  messagebird  =  require ( 'messagebird' ) ( 'oN8gHQ3gvSL2RamNSpnm4nI4g' ) ;
